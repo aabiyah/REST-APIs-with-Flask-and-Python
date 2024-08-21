@@ -1,6 +1,7 @@
 # REST API with Flask and Python
 
 This guide provides a step-by-step tutorial on how to create a simple REST API using Flask, a lightweight web application framework in Python.
+Course for side-by-side project: https://www.udemy.com/course/rest-api-flask-and-python/
 
 ## Prerequisites
 
